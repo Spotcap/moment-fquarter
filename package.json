@@ -1,0 +1,17 @@
+{
+  "name": "moment-fquarter",
+  "version": "0.1.0",
+  "description": "Fiscal quarterly formatting for momentjs",
+  "author": "Rob Allen",
+  "contributors": [
+    {
+      "name": "Yago Ferrer",
+      "email": "yago.ferrer@gmail.com"
+    }
+  ],
+  "main": "moment-fquarter.js",
+  "devDependencies": {
+    "moment": "~2.5.1"
+  },
+  "license": "MIT"
+}
